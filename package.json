@@ -1,0 +1,19 @@
+{
+  "name": "testing-spine",
+  "version": "0.0.1",
+  "description": "Sample app for guild meeting",
+  "author": {
+    "name": "Jarrod Carlson",
+    "email": "jarrod.carlson@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visionmedia/serve.git"
+  },
+  "dependencies": {
+    "coffee-script": "1.7.1",
+    "handlebar-rider": "0.1.20",
+    "handlebars": "1.3.0",
+    "serve": "1.4.0"
+  }
+}
